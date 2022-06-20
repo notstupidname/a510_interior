@@ -1,9 +1,5 @@
 plugins:
   - jekyll-seo-tag
-  
-collections:
-  portfolio:
-    output: true
 
 social:
   name: A510
