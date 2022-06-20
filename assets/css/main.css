@@ -390,7 +390,7 @@ body {
         flex-direction: column;
         justify-content: space-between;
         /* padding: 1em; */
-        min-height: 18vh;
+        min-height: 15vh;
     }
 
     #header .logo {
