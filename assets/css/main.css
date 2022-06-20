@@ -641,7 +641,7 @@ body.project #banner {
     border: 0;
     display: inline-block;
     position: relative;
-    max-height: 95vh;
+    /* max-height: 95vh; */
 }
 
     .image img {

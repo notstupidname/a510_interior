@@ -1,17 +1,16 @@
 ---
-title: Интерьер дома в крыму - А510
-description: Интерьер дома в крыму от Архитектурного бюро А510.
+title: Комплекс апартаментов в Крыму - А510
+description: Комплекс апартаментов в Крыму от Архитектурного бюро А510.
 layout: project
 permalink: /portfolio/:path
 ---
 
 <div id="banner">
     <img src="/images/dom-v-krymu/banner.jpg">
-    <h1>Интерьер дома в Крыму</h1>
+    <h1>Комплекс апартаментов в Крыму</h1>
 </div>
 <main id="main">
     <div id="project-wrapper">
-        <p>Одной из важнейших задач конкурса стала задача реорганизации жизни и реновация центральной части Норильска. Основная идея проекта — не только физическая реконструкция и реновация жилого фонда города, производства и инфраструктуры, но и переход на новую наукоемкую, осознанную и экологически чистую экономику. Для достижения этой цели планируется модернизировать производства в новый технопарк, расширить Заполярный университет новыми зданиями кампуса и научно-исследовательского центра, а также построить новый центр развития технологий «Никелевая долина», где молодые специалисты и студенты смогут работать, создавать стартапы, направленные на изучение Арктики и применении новейших технологий в добывающей промышленности.</p>
         <div class="table-wrapper">
             <table>
                 <tbody>
@@ -33,7 +32,7 @@ permalink: /portfolio/:path
                     </tr>
                     <tr>
                         <td>Статус</td>
-                        <td>Проект</td>
+                        <td>Готов</td>
                     </tr>
                 </tbody>
             </table>
@@ -42,7 +41,6 @@ permalink: /portfolio/:path
     <div id="project-photo">
         <img class="image fit small" src="/images/dom-v-krymu/01.jpg">
         <img class="image fit small" src="/images/dom-v-krymu/02.jpg">
-        <img class="image fit big" src="/images/dom-v-krymu/03.jpg">
         <img class="image fit medium" src="/images/dom-v-krymu/04.jpg">
         <img class="image fit small" src="/images/dom-v-krymu/05.jpg">
         <img class="image fit small" src="/images/dom-v-krymu/06.jpg">
