@@ -40,13 +40,13 @@ permalink: /portfolio/:path
     </div>
     <div id="project-photo">
         <img class="image fit medium" src="/images/aleksandrovka/02.jpg">
-        <img class="image fit medium" src="/images/aleksandrovka/03.jpg">
-        <img class="image fit small" src="/images/aleksandrovka/04.jpg">
-        <img class="image fit small" src="/images/aleksandrovka/05.jpg">
-        <img class="image fit medium" src="/images/aleksandrovka/06.jpg">
-        <img class="image fit small" src="/images/aleksandrovka/07.jpg">
-        <img class="image fit small" src="/images/aleksandrovka/08.jpg">
-        <img class="image fit small" src="/images/aleksandrovka/09.jpg">
-        <img class="image fit small" src="/images/aleksandrovka/10.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/aleksandrovka/03.jpg">
+        <img class="image fit small" loading="lazy" src="/images/aleksandrovka/04.jpg">
+        <img class="image fit small" loading="lazy" src="/images/aleksandrovka/05.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/aleksandrovka/06.jpg">
+        <img class="image fit small" loading="lazy" src="/images/aleksandrovka/07.jpg">
+        <img class="image fit small" loading="lazy" src="/images/aleksandrovka/08.jpg">
+        <img class="image fit small" loading="lazy" src="/images/aleksandrovka/09.jpg">
+        <img class="image fit small" loading="lazy" src="/images/aleksandrovka/10.jpg">
     </div>
 </main>

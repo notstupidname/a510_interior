@@ -40,12 +40,12 @@ permalink: /portfolio/:path
     </div>
     <div id="project-photo">
         <img class="image fit big" src="/images/dom-v-lukino/02.jpg">
-        <img class="image fit medium" src="/images/dom-v-lukino/03.jpg">
-        <img class="image fit medium" src="/images/dom-v-lukino/05.jpg">
-        <img class="image fit big" src="/images/dom-v-lukino/06.jpg">
-        <img class="image fit medium" src="/images/dom-v-lukino/07.jpg">
-        <img class="image fit medium" src="/images/dom-v-lukino/08.jpg">
-        <img class="image fit big" src="/images/dom-v-lukino/09.jpg">
-        <img class="image fit medium" src="/images/dom-v-lukino/10.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-lukino/03.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-lukino/05.jpg">
+        <img class="image fit big" loading="lazy" src="/images/dom-v-lukino/06.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-lukino/07.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-lukino/08.jpg">
+        <img class="image fit big" loading="lazy" src="/images/dom-v-lukino/09.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-lukino/10.jpg">
     </div>
 </main>

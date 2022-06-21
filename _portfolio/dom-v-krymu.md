@@ -42,14 +42,14 @@ permalink: /portfolio/:path
         <img class="image fit small" src="/images/dom-v-krymu/01.jpg">
         <img class="image fit small" src="/images/dom-v-krymu/02.jpg">
         <img class="image fit medium" src="/images/dom-v-krymu/04.jpg">
-        <img class="image fit small" src="/images/dom-v-krymu/05.jpg">
-        <img class="image fit small" src="/images/dom-v-krymu/06.jpg">
-        <img class="image fit small" src="/images/dom-v-krymu/07.jpg">
-        <img class="image fit small" src="/images/dom-v-krymu/08.jpg">
-        <img class="image fit medium" src="/images/dom-v-krymu/09.jpg">
-        <img class="image fit small" src="/images/dom-v-krymu/10.jpg">
-        <img class="image fit medium" src="/images/dom-v-krymu/11.jpg">
-        <img class="image fit small" src="/images/dom-v-krymu/12.jpg">
-        <img class="image fit small" src="/images/dom-v-krymu/13.jpg">
+        <img class="image fit small" loading="lazy" src="/images/dom-v-krymu/05.jpg">
+        <img class="image fit small" loading="lazy" src="/images/dom-v-krymu/06.jpg">
+        <img class="image fit small" loading="lazy" src="/images/dom-v-krymu/07.jpg">
+        <img class="image fit small" loading="lazy" src="/images/dom-v-krymu/08.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-krymu/09.jpg">
+        <img class="image fit small" loading="lazy" src="/images/dom-v-krymu/10.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-krymu/11.jpg">
+        <img class="image fit small" loading="lazy" src="/images/dom-v-krymu/12.jpg">
+        <img class="image fit small" loading="lazy" src="/images/dom-v-krymu/13.jpg">
     </div>
 </main>

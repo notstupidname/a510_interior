@@ -40,13 +40,13 @@ permalink: /portfolio/:path
     </div>
     <div id="project-photo">
         <img class="image fit big" src="/images/kvartira-s-vidom-v-nicce/02.jpg">
-        <img class="image fit medium" src="/images/kvartira-s-vidom-v-nicce/03.jpg">
-        <img class="image fit medium" src="/images/kvartira-s-vidom-v-nicce/04.jpg">
-        <img class="image fit medium" src="/images/kvartira-s-vidom-v-nicce/05.jpg">
-        <img class="image fit medium" src="/images/kvartira-s-vidom-v-nicce/06.jpg">
-        <img class="image fit small" src="/images/kvartira-s-vidom-v-nicce/07.jpg">
-        <img class="image fit small" src="/images/kvartira-s-vidom-v-nicce/08.jpg">
-        <img class="image fit small" src="/images/kvartira-s-vidom-v-nicce/09.jpg">
-        <img class="image fit small" src="/images/kvartira-s-vidom-v-nicce/10.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/kvartira-s-vidom-v-nicce/03.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/kvartira-s-vidom-v-nicce/04.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/kvartira-s-vidom-v-nicce/05.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/kvartira-s-vidom-v-nicce/06.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-s-vidom-v-nicce/07.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-s-vidom-v-nicce/08.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-s-vidom-v-nicce/09.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-s-vidom-v-nicce/10.jpg">
     </div>
 </main>

@@ -40,13 +40,13 @@ permalink: /portfolio/:path
     </div>
     <div id="project-photo">
         <img class="image fit big" src="/images/apartamenty-na-novokuznetskoy/02.jpg">
-        <img class="image fit medium" src="/images/apartamenty-na-novokuznetskoy/03.jpg">
-        <img class="image fit medium" src="/images/apartamenty-na-novokuznetskoy/04.jpg">
-        <img class="image fit big" src="/images/apartamenty-na-novokuznetskoy/05.jpg">
-        <img class="image fit medium" src="/images/apartamenty-na-novokuznetskoy/06.jpg">
-        <img class="image fit medium" src="/images/apartamenty-na-novokuznetskoy/07.jpg">
-        <img class="image fit big" src="/images/apartamenty-na-novokuznetskoy/08.jpg">
-        <img class="image fit small" src="/images/apartamenty-na-novokuznetskoy/09.jpg">
-        <img class="image fit small" src="/images/apartamenty-na-novokuznetskoy/10.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/apartamenty-na-novokuznetskoy/03.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/apartamenty-na-novokuznetskoy/04.jpg">
+        <img class="image fit big" loading="lazy" src="/images/apartamenty-na-novokuznetskoy/05.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/apartamenty-na-novokuznetskoy/06.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/apartamenty-na-novokuznetskoy/07.jpg">
+        <img class="image fit big" loading="lazy" src="/images/apartamenty-na-novokuznetskoy/08.jpg">
+        <img class="image fit small" loading="lazy" src="/images/apartamenty-na-novokuznetskoy/09.jpg">
+        <img class="image fit small" loading="lazy" src="/images/apartamenty-na-novokuznetskoy/10.jpg">
     </div>
 </main>

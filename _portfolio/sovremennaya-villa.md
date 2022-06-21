@@ -41,21 +41,21 @@ permalink: /portfolio/:path
     <div id="project-photo">
         <img class="image fit small" src="/images/sovremennaya-villa/01.jpg">
         <img class="image fit small" src="/images/sovremennaya-villa/02.jpg">
-        <img class="image fit big" src="/images/sovremennaya-villa/03.jpg">
-        <img class="image fit small" src="/images/sovremennaya-villa/04.jpg">
-        <img class="image fit big" src="/images/sovremennaya-villa/05.jpg">
-        <img class="image fit small" src="/images/sovremennaya-villa/06.jpg">
-        <img class="image fit small" src="/images/sovremennaya-villa/07.jpg">
-        <img class="image fit medium" src="/images/sovremennaya-villa/08.jpg">
-        <img class="image fit medium" src="/images/sovremennaya-villa/09.jpg">
-        <img class="image fit big" src="/images/sovremennaya-villa/10.jpg">
-        <img class="image fit small" src="/images/sovremennaya-villa/11.jpg">
-        <img class="image fit medium" src="/images/sovremennaya-villa/12.jpg">
-        <img class="image fit small" src="/images/sovremennaya-villa/13.jpg">
-        <img class="image fit small" src="/images/sovremennaya-villa/14.jpg">
-        <img class="image fit medium" src="/images/sovremennaya-villa/15.jpg">
-        <img class="image fit medium" src="/images/sovremennaya-villa/16.jpg">
-        <img class="image fit small" src="/images/sovremennaya-villa/17.jpg">
-        <img class="image fit small" src="/images/sovremennaya-villa/18.jpg">
+        <img class="image fit big" loading="lazy" src="/images/sovremennaya-villa/03.jpg">
+        <img class="image fit small" loading="lazy" src="/images/sovremennaya-villa/04.jpg">
+        <img class="image fit big" loading="lazy" src="/images/sovremennaya-villa/05.jpg">
+        <img class="image fit small" loading="lazy" src="/images/sovremennaya-villa/06.jpg">
+        <img class="image fit small" loading="lazy" src="/images/sovremennaya-villa/07.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/sovremennaya-villa/08.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/sovremennaya-villa/09.jpg">
+        <img class="image fit big" loading="lazy" src="/images/sovremennaya-villa/10.jpg">
+        <img class="image fit small" loading="lazy" src="/images/sovremennaya-villa/11.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/sovremennaya-villa/12.jpg">
+        <img class="image fit small" loading="lazy" src="/images/sovremennaya-villa/13.jpg">
+        <img class="image fit small" loading="lazy" src="/images/sovremennaya-villa/14.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/sovremennaya-villa/15.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/sovremennaya-villa/16.jpg">
+        <img class="image fit small" loading="lazy" src="/images/sovremennaya-villa/17.jpg">
+        <img class="image fit small" loading="lazy" src="/images/sovremennaya-villa/18.jpg">
     </div>
 </main>

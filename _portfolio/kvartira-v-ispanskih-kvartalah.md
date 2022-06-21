@@ -42,15 +42,15 @@ permalink: /portfolio/:path
         <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/01.jpg">
         <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/02.jpg">
         <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/03.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/04.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/05.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/07.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/08.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/09.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/10.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/11.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/13.jpg">
-        <img class="image fit medium" src="/images/kvartira-v-ispanskih-kvartalah/14.jpg">
-        <img class="image fit small" src="/images/kvartira-v-ispanskih-kvartalah/15.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/04.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/05.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/07.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/08.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/09.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/10.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/11.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/13.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/14.jpg">
+        <img class="image fit small" loading="lazy" src="/images/kvartira-v-ispanskih-kvartalah/15.jpg">
     </div>
 </main>

@@ -41,19 +41,19 @@ permalink: /portfolio/:path
     <div id="project-photo">
         <img class="image fit big" src="/images/dom-v-podmoskovye/01.jpg">
         <img class="image fit big" src="/images/dom-v-podmoskovye/02.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/03.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/04.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/05.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/06.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/08.jpg">
-        <img class="image fit big" src="/images/dom-v-podmoskovye/09.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/10.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/11.jpg">
-        <img class="image fit big" src="/images/dom-v-podmoskovye/12.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/13.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/14.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/15.jpg">
-        <img class="image fit medium" src="/images/dom-v-podmoskovye/16.jpg">
-        <img class="image fit small" src="/images/dom-v-podmoskovye/17.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/03.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/04.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/05.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/06.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/08.jpg">
+        <img class="image fit big" loading="lazy" src="/images/dom-v-podmoskovye/09.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/10.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/11.jpg">
+        <img class="image fit big" loading="lazy" src="/images/dom-v-podmoskovye/12.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/13.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/14.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/15.jpg">
+        <img class="image fit medium" loading="lazy" src="/images/dom-v-podmoskovye/16.jpg">
+        <img class="image fit small" loading="lazy" src="/images/dom-v-podmoskovye/17.jpg">
     </div>
 </main>
